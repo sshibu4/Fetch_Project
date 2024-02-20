@@ -10,5 +10,5 @@ UI: RecyclerView for displaying the items
 
 #Development Environment:
 IDE: Android Studio
-OS: : Developed and tested on Android version Oreo.
+OS: Developed and tested on Android version Oreo.
 Test Device: Google Pixel 7 Pro
